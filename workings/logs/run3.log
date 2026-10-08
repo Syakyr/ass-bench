@@ -1,0 +1,4 @@
+[log] body: field 176ms  mesh 36ms  verts 39350 tris 35899
+[log] brief: field 174ms  mesh 22ms  verts 21224 tris 19836
+[log] total build 433 ms
+[log] centre [0, 0.764, -0.03] size [0.408, 0.728, 0.335] dist 1.444
